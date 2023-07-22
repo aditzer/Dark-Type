@@ -7,3 +7,5 @@ It is a mobile application created using Flutter in front-end. It is a typing ga
 Solo Mode: User can select time duration and difficulty level of words and after typing is done app will show user the typing speed and accuracy.
 
 Multiplayer Mode: User can join a game and select difficulty. When total 4 people join a game, the game will start and users can see live progress as well. After end winner can be seen and all user's typing speeds as well.
+
+APK link: https://drive.google.com/file/d/1-vcCsmFi-nFeWAp4Crt8Gp1xisCn9Uxf/view?usp=sharing
