@@ -1,6 +1,6 @@
-#Dark Type
+## Dark Type
 
-A Typing Platform
+A Typing Platform.
 
 It is a mobile application created using Flutter in front-end. It is a typing game which has two modes solo and multiplayer.
 
