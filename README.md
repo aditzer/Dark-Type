@@ -1,16 +1,9 @@
-# dark_typer
+#Dark Type
 
 A Typing Platform
 
-## Getting Started
+It is a mobile application created using Flutter in front-end. It is a typing game which has two modes solo and multiplayer.
 
-This project is a starting point for a Flutter application.
+Solo Mode: User can select time duration and difficulty level of words and after typing is done app will show user the typing speed and accuracy.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Multiplayer Mode: User can join a game and select difficulty. When total 4 people join a game, the game will start and users can see live progress as well. After end winner can be seen and all user's typing speeds as well.
